@@ -11,7 +11,3 @@ web application 4 Action workflows, and a CSS stylesheet dependency.
 | 5.0.7   | :🚮:                |
 | 4.0.x   | :🥫: |
 | < 4.0   | :🕊️:                |
-
-# web4.9
-# web4.9
-# web4.9
